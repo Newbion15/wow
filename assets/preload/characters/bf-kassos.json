@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "BFKassosLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "BFKassosDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "BFKassosRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "BFKassosUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFKassosIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "HEY",
+			"indices": [],
+			"name": "BFKassosHEY"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-54
+			],
+			"anim": "FUCKYOU",
+			"fps": 24,
+			"name": "BFKassosFUCKYOU",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-59
+			],
+			"anim": "preidle",
+			"fps": 24,
+			"name": "BFKassosPreIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pickupmicro",
+			"indices": [],
+			"name": "BFKassosPickupMicro"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFKassosMissLeft"
+		},
+		{
+			"offsets": [
+				-92,
+				-27
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFKassosMissRight"
+		},
+		{
+			"offsets": [
+				-51,
+				-1
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFKassosMissUp"
+		},
+		{
+			"offsets": [
+				-31,
+				-83
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFKassosMissDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-60
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BFKassosDies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-42,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BFKassosDeadConfirm"
+		},
+		{
+			"offsets": [
+				-42,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BFKassosDeadLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFKassos",
+	"position": [
+		-320,
+		290
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-140,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
