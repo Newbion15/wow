@@ -1,0 +1,32 @@
+{
+	"storyName": "Fnf Kassos vs Petit Ami & Petite Amie",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "kassos",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		201,
+		76,
+		71
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"kassos",
+			"welfare",
+			[
+		201,
+		76,
+		71
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
