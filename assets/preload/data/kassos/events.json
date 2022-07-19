@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				1932.98969072165,
+				[
+					[
+						"Play Animation",
+						"pickupmicro",
+						"bf"
+					]
+				]
+			],
+			[
+				43067.0103092783,
+				[
+					[
+						"Play Animation",
+						"HEY",
+						"bf"
+					]
+				]
+			],
+			[
+				43685.5670103093,
+				[
+					[
+						"Play Animation",
+						"HEY",
+						"bf"
+					]
+				]
+			],
+			[
+				44304.1237113402,
+				[
+					[
+						"Play Animation",
+						"HEY",
+						"bf"
+					]
+				]
+			],
+			[
+				57912.3711340206,
+				[
+					[
+						"Play Animation",
+						"FUCKYOU",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
